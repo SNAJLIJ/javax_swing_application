@@ -34,14 +34,6 @@ public class MainFrame extends JFrame {
 		c.add(detailsPanel, BorderLayout.WEST);
 		
 		
-		// Add behaviour to the components.
-		button.addActionListener(new ActionListener() {
-			
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				textArea.append("Hello\n");
-			}
-		});
 		
 	}
 	
