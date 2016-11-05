@@ -15,6 +15,11 @@ public class App {
 				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				frame.setVisible(true);
 		   }
-		});		
+		});
+		
+		for(int i=0; i<10; i++){
+			System.out.println("Roger FEDERER");
+		}
+		
 	}
 }
