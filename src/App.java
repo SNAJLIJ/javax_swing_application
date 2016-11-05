@@ -11,5 +11,10 @@ public class App {
 		p.setAge(25);
 		
 		System.out.println(p.toString());
+		
+		p.setAddress("55555555555");
+		System.out.println(p.toString());
+		
+		System.out.println();
 	}
 }
