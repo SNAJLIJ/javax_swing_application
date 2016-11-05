@@ -20,6 +20,7 @@ public class App {
 		for(int i=0; i<10; i++){
 			System.out.println("Roger FEDERER");
 		}
-		
+	for (int i=0; i< 10;i++){
+	i++;
 	}
 }
